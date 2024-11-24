@@ -20,6 +20,7 @@
 
 ```shell
 conda env create -f TreeCV.yml
+```
 
 ## 生成图片数据集
 
