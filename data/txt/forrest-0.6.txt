@@ -1,0 +1,6 @@
+../data/dataset/forrest-0.6/AntProperties.java 0
+../data/dataset/forrest-0.6/AntPropertiesModule.java 0
+../data/dataset/forrest-0.6/ForrestConfModule.java 0
+../data/dataset/forrest-0.6/ForrestConfUtils.java 0
+../data/dataset/forrest-0.6/SkinconfTransformer.java 0
+../data/dataset/forrest-0.6/ForrestLogTargetFactory.java 1
